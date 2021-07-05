@@ -1,0 +1,4 @@
+
+
+# ignore page components
+pages/**/components/
